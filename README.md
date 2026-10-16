@@ -1,6 +1,6 @@
 # RAG Platform
 
-An internl knowledge-base system that allows users upload documents and ask questions about them. 
+An internal knowledge-base system that allows users upload documents and ask questions about them. 
 The system uses a Retrieval-Augmented Generation (RAG) approach to provide accurate and relevant answers based on the uploaded documents.
 
 ## Purpose
